@@ -1,0 +1,9 @@
+,network_info_names
+0,Maps (1)
+1,Maps (2)
+2,Maps (3)
+3,Degree
+4,Closeness
+5,Betweeness
+6,EigenCent
+7,PageRank
