@@ -42,5 +42,5 @@ Subsequently, `PINNED_model.ipynb` was used to train and cross-validate the mode
 
 Rights to AlphaFold and fpocket are governed by their respective licenses
 
-- ![AlphaFold pdb models](https://ftp.ebi.ac.uk/pub/databases/alphafold/)
-- ![fpocket (2020) source code](https://github.com/Discngine/fpocket)
+- [AlphaFold pdb models](https://ftp.ebi.ac.uk/pub/databases/alphafold/)
+- [fpocket (2020) source code](https://github.com/Discngine/fpocket)
